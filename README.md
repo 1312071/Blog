@@ -4,7 +4,7 @@
 
 Danh sĂ¡ch sinh viĂªn: **Your Name Here**
 
-URL: **Insert your Heroku URL here**
+URL: https://desolate-ridge-50415.herokuapp.com/posts
 
 ## Chá»©c nÄƒng
 
